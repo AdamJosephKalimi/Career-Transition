@@ -74,15 +74,29 @@ What are your needs and goals? *Check your personal statement!*
 -Incubators and Accelorators
   - Companies are looking to hire new talent
   - They are looking to take on talent that's new, but willing to learn and driven to get it done.
+  
+- Established Companies / Medium - Large companies
+  - Often are looking for experienced developers with a niche.
+  - Focus on the other skills you bring to the table.
+    - Project Manager that can work with developers
+    - A Sales Person who can listen to a client's needs and know what it will take from a technical perspective to make their requests a reality. 
+    
 - Suggestions
   - Look into your Le Wagon group for gigs!
   - Look to your Le Wagon alumni group for help with blockages!
   - 
+  
 - Food for thought
   - Pay may be better if they are foreign firms, even if they are startups
   - What is their development situation?
     - Will you be *the* tech person?
     - Do they have a lead developer to learn from?
     - Be honest with yourself on how independently do you learn.
-    # create a question sheet below that has all the questions I am asking, and a template for a personal statement
-  
+    
+
+  # to do
+  - create a question sheet below that has all the questions I am asking, and a template for a personal statement
+  - create a better timeline of my personal journey through China
+  - create a Ven diagram showing Pay >< Pay and Mentorship >< Mentorship
+  - Find gifs to add
+  - Add the 'raining gigs' image to the presentation
