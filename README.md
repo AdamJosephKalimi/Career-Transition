@@ -9,13 +9,11 @@ Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transit
 # 1. Defining your career pivot goals ahead of time
 **Steps you can take**
 
-- Look **12-18** months down the line
-
-- Think about what you want professionally and personally. Career changes often come with a lifestyle change.
-
 **How to plan:**
 
 - Write down your goals. Limit 3 - 5.
+  - Look **12-18** months down the line
+  - Think about what you want professionally and personally. Career changes often come with a lifestyle change.
   - More managable
 - Personal Statement
   - Choose a point in the future **(DD-MM-YYYY)** and write looking back.
