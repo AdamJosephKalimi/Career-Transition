@@ -59,6 +59,7 @@ What are your needs and goals? *Check your personal statement!*
       - Define your roles clearly, but know that your responsibilities will probably intertwine.
   - Where to find work
     - **Le Wagon Alumni :star2: Group chat!**
+<img src="https://user-images.githubusercontent.com/26082320/38513602-51405960-3c61-11e8-8437-ef35b8b95d6c.jpg" width="400" height="800" />
     - Fiverr (https://www.fiverr.com/)
     - Freelanceer (https://www.freelancer.com/)
 
