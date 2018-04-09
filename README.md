@@ -4,10 +4,9 @@
 3. Where to look for the best opportunites to get hired as a (fill in the blank)
 
 
-![Alt Text](https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif)
-![Alt Text](https://user-images.githubusercontent.com/26082320/38512050-a78bbdfa-3c5c-11e8-8996-04f67dbd8018.jpg)
+![Alt Text](https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif| width=100)
 
-
+![Alt Text](https://user-images.githubusercontent.com/26082320/38512050-a78bbdfa-3c5c-11e8-8996-04f67dbd8018.jpg| width=100)
 
 **A quick timeLine**
 Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transition to HR) -> September 2016 (Realize I didn't want to work in HR. Transition to teaching adults) -> September 2017 (Retired from teaching and joined Le Wagon) -> January 2018 (Hired as a full time front-end developer for Mobio Interactive).
@@ -73,8 +72,8 @@ What are your needs and goals? *Check your personal statement!*
       - What are your needs and goals? *Check your personal statement!* 
       - Who are you learning from?
       - Shares in the company?
-    - Consider your financial runway.
-      - **(Ven diagram showing Pay >< Pay and Mentorship >< Mentorship)**
+    - Consider your financial runway and priorities
+      - <img src="https://user-images.githubusercontent.com/26082320/38512050-a78bbdfa-3c5c-11e8-8996-04f67dbd8018.jpg" width="400" height="400" />
  
 # 3. Where to look for the best opportunites to (fill in the blank)
 What are your needs and goals? *Check your personal statement!*
