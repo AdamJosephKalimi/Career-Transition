@@ -5,6 +5,8 @@
 
 
 ![Alt Text](https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif)
+![Alt Text](https://user-images.githubusercontent.com/26082320/38512050-a78bbdfa-3c5c-11e8-8996-04f67dbd8018.jpg)
+
 
 
 **A quick timeLine**
@@ -15,15 +17,20 @@ Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transit
 
 **How to plan:**
 
-- Write down your goals. Limit 3 - 5.
-  - Look **12-18** months down the line
+- Look **12-18** months down the line
+  - Write down your goals. Limit 3 - 5.
+    - 1. The Job you want
+    - 2. The Skills you want to have
+    - 3. Personal goal 1
+    - 4. Personal goal 2
+    - 5. Personal goal
   - Think about what you want professionally and personally. Career changes often come with a lifestyle change.
   - More managable
 - Personal Statement
   - Choose a point in the future **(DD-MM-YYYY)** and write looking back.
   - Talk about what it took and what you sacrificed to get there.
   - Remind yourself that it was worth it.
-  - What will you do during the 
+  - Remember that this IS the time to make the change that you want. Reference when you hit THE WALL. 
 - An honest financial runway
   - How long can you sustain a job hunt living your current lifestyle?
   - Where can you cut corners to save (Add this into your personal statement)
@@ -60,13 +67,13 @@ What are your needs and goals? *Check your personal statement!*
   - A good way to have steady income, though it may start out quite low
   - Benefits
     - Steady income
-    - Work with a lead developer
     - More narrow focus (Depends on company size)
   - Suggestions
     - Focus on non-salary benefits
       - What are your needs and goals? *Check your personal statement!* 
       - Who are you learning from?
-      - Shares?
+      - Shares in the company?
+    - Consider your financial runway.
       - **(Ven diagram showing Pay >< Pay and Mentorship >< Mentorship)**
  
 # 3. Where to look for the best opportunites to (fill in the blank)
@@ -99,6 +106,6 @@ What are your needs and goals? *Check your personal statement!*
   # to do
   - create a question sheet below that has all the questions I am asking, and a template for a personal statement
   - create a better timeline of my personal journey through China
-  - create a Ven diagram showing Pay >< Pay and Mentorship >< Mentorship
+  X- create a Ven diagram showing Pay >< Pay and Mentorship >< Mentorship
   - Find gifs to add
   - Add the 'raining gigs' image to the presentation
