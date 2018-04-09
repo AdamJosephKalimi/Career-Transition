@@ -103,7 +103,7 @@ What are your needs and goals? *Check your personal statement!*
   # FAQ for you
   - Do I want to work as a developer or with developers?
 	- Do I want to work at an established company, startup, freelance, or start my own business?
-  - What are my monthly expenses?
+  - How much are my monthly expenses? ______RMB
   - How much of a financial runway do I have to start making money?
   ______ Months
 	- How important is immediate pay? How important is a good mentor?
