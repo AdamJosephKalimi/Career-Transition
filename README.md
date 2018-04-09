@@ -5,8 +5,6 @@
 
 
 ![Alt Text](https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif)
-![Alt Text](https://media.giphy.com/media/qjTk5bzWXiElG/giphy.gif)
-<img src="https://media.giphy.com/media/qjTk5bzWXiElG/giphy.gif" width="400" height="400" />
 
 **A quick timeLine**
 Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transition to HR) -> September 2016 (Realize I didn't want to work in HR. Transition to teaching adults) -> September 2017 (Retired from teaching and joined Le Wagon) -> January 2018 (Hired as a full time front-end developer for Mobio Interactive).
@@ -53,7 +51,7 @@ What are your needs and goals? *Check your personal statement!*
   - **BEWARE**
     - Don't bite off more than you can chew!
     - With a lot of money being offered for each gig, it's easy to overcommit or take on too many projects
-    ![Alt Text](https://media.giphy.com/media/1UdrxIic02RpK/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xT0Gqr8S3sT5DQzHOM/giphy.gif)
   - Suggestions
     - **IF YOU ARE A n00b!**
       - Work with your fellow alumni!
