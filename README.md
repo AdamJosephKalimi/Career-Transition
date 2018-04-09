@@ -100,9 +100,21 @@ What are your needs and goals? *Check your personal statement!*
     - Be honest with yourself on how independently you learn.
     
 
-  # to do
-  - create a question sheet below that has all the questions I am asking, and a template for a personal statement
-  - create a better timeline of my personal journey through China
-  X- create a Ven diagram showing Pay >< Pay and Mentorship >< Mentorship
-  X- Find gifs to add
-  - Add the 'raining gigs' image to the presentation
+  # FAQ for you
+  - Do I want to work as a developer or with developers?
+	- Do I want to work at an established company, startup, freelance, or start my own business?
+  - What are my monthly expenses?
+  - How much of a financial runway do I have to start making money?
+  ______ Months
+	- How important is immediate pay? How important is a good mentor?
+	  - Pay: Quickly take a job that pays well, but may not exactly what you want to be doing.
+    - Mentorship: Hold out for a job where you have this.
+	- What are my 3-5 goals to achieve in 12-18 months?
+		- 
+		- 
+		- 
+		- 
+		- 
+	-  Am I going to have all the skills that I need immediately upon finishing camp?
+		Yes / No
+	- What can I do to continue learning while job hunting?
