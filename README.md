@@ -5,7 +5,8 @@
 
 
 ![Alt Text](https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/1UdrxIic02RpK/giphy.gif)
+<img src="https://media.giphy.com/media/1UdrxIic02RpK/giphy.gif" width="400" height="400" />
 
 **A quick timeLine**
 Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transition to HR) -> September 2016 (Realize I didn't want to work in HR. Transition to teaching adults) -> September 2017 (Retired from teaching and joined Le Wagon) -> January 2018 (Hired as a full time front-end developer for Mobio Interactive).
