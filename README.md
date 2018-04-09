@@ -51,6 +51,7 @@ What are your needs and goals? *Check your personal statement!*
   - **BEWARE**
     - Don't bite off more than you can chew!
     - With a lot of money being offered for each gig, it's easy to overcommit or take on too many projects
+![Alt Text](https://media.giphy.com/media/tZ4K7k7wZ8B8I/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/xT0Gqr8S3sT5DQzHOM/giphy.gif)
   - Suggestions
     - **IF YOU ARE A n00b!**
@@ -91,19 +92,19 @@ What are your needs and goals? *Check your personal statement!*
 - Suggestions
   - Look into your Le Wagon group for gigs!
   - Look to your Le Wagon alumni group for help with blockages!
-  - 
+ 
   
 - Food for thought
   - Pay may be better if they are foreign firms, even if they are startups
   - What is their development situation?
     - Will you be *the* tech person?
     - Do they have a lead developer to learn from?
-    - Be honest with yourself on how independently do you learn.
+    - Be honest with yourself on how independently you learn.
     
 
   # to do
   - create a question sheet below that has all the questions I am asking, and a template for a personal statement
   - create a better timeline of my personal journey through China
   X- create a Ven diagram showing Pay >< Pay and Mentorship >< Mentorship
-  - Find gifs to add
+  X- Find gifs to add
   - Add the 'raining gigs' image to the presentation
