@@ -118,3 +118,6 @@ What are your needs and goals? *Check your personal statement!*
 	-  Am I going to have all the skills that I need immediately upon finishing camp?
 		Yes / No
 	- What can I do to continue learning while job hunting?
+
+![Alt Text](https://user-images.githubusercontent.com/26082320/38547682-4db5d15e-3ce2-11e8-91f7-117078b1a445.jpg)
+![Alt Text](https://user-images.githubusercontent.com/26082320/38547682-4db5d15e-3ce2-11e8-91f7-117078b1a445.jpg)
