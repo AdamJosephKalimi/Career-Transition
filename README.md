@@ -26,7 +26,7 @@ Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transit
   - Remind yourself that it was worth it.
   - Remember that this IS the time to make the change that you want. Reference when you hit THE WALL. 
 - An honest financial runway
-  - How long can you sustain a job hunt living your current lifestyle?
+  - How long can you sustain a full-time job hunt living your current lifestyle?
   - Where can you cut corners to save (Add this into your personal statement)
   - What will you do during your job hunt to make sure you get where you want to be?
   - What is your realistic backup plan? **This is a must**
