@@ -17,7 +17,7 @@ Jan 2015 (arrive in Shanghai and work as an online teacher) -> Jan 2016 (Transit
     - 2. The Skills you want to have
     - 3. Personal goal 1
     - 4. Personal goal 2
-    - 5. Personal goal
+    - 5. Personal goal 3
   - Think about what you want professionally and personally. Career changes often come with a lifestyle change.
   - More managable
 - Personal Statement
