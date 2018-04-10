@@ -88,7 +88,7 @@ What are your needs and goals? *Check your personal statement!*
     - A Sales Person who can listen to a client's needs and know what it will take from a technical perspective to make their requests a reality. 
     
 - Suggestions
-  - Look into your Le Wagon group for gigs!
+  - Look into your personal network and groupchats for gigs!
   - Look to your Le Wagon alumni group for help with blockages!
  
   
