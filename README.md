@@ -119,5 +119,7 @@ What are your needs and goals? *Check your personal statement!*
 		Yes / No
 	- What can I do to continue learning while job hunting?
 
+- QR code for this presentation
+<img src="https://user-images.githubusercontent.com/26082320/38547978-222483cc-3ce3-11e8-91dc-508df489a37b.png" width="400" height="400" />
+- My QR Code 
 ![Alt Text](https://user-images.githubusercontent.com/26082320/38547682-4db5d15e-3ce2-11e8-91f7-117078b1a445.jpg)
-![Alt Text](https://user-images.githubusercontent.com/26082320/38547978-222483cc-3ce3-11e8-91dc-508df489a37b.png)
