@@ -58,7 +58,7 @@ What are your needs and goals? *Check your personal statement!*
     - **Le Wagon Alumni :star2: Group chat!**
     - <img src="https://user-images.githubusercontent.com/26082320/38513602-51405960-3c61-11e8-8437-ef35b8b95d6c.jpg" width="400" height="700" />
     - Fiverr (https://www.fiverr.com/)
-    - Freelanceer (https://www.freelancer.com/)
+    - Freelancer (https://www.freelancer.com/)
 
 **fullTime**
   - A good way to have steady income, though it may start out quite low
