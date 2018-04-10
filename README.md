@@ -120,4 +120,4 @@ What are your needs and goals? *Check your personal statement!*
 	- What can I do to continue learning while job hunting?
 
 ![Alt Text](https://user-images.githubusercontent.com/26082320/38547682-4db5d15e-3ce2-11e8-91f7-117078b1a445.jpg)
-![Alt Text](https://user-images.githubusercontent.com/26082320/38547682-4db5d15e-3ce2-11e8-91f7-117078b1a445.jpg)
+![Alt Text](https://user-images.githubusercontent.com/26082320/38547978-222483cc-3ce3-11e8-91dc-508df489a37b.png)
